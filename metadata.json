@@ -1,0 +1,6 @@
+{
+  "name": "LigaHot - Marketplace & Guia de Preços de Miniaturas",
+  "description": "O maior portal e marketplace de miniaturas Hot Wheels, Tomica, Kaido House e Mini GT com guia de preços, lojas personalizadas e rastreador de coleções.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
